@@ -1,0 +1,21 @@
+{
+  "name": "logo_gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "type":"module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "color": "^4.2.3",
+    "inquirer": "^9.2.23"
+  }
+}
