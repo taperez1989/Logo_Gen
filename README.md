@@ -25,7 +25,7 @@ package-lock.json
 package.json
 README.md file
 
-video link:
+video link: https://drive.google.com/file/d/1vFGCjldBXuFdx5Vu5TNyCvZbSseOG3LE/view
 
 repo link: https://github.com/taperez1989/Logo_Gen.git
 
