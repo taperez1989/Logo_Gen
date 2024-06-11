@@ -10,6 +10,8 @@ The first part of this I understood which was just creating the command line pro
 challenge was to generate a logo.svg file using a command line prompts, which will allow the user to choose what the shape, shape color, text, and text color will be.
 
 ##Table of Contents
+
+
 examples
 lib
   -index.js
